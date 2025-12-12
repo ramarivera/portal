@@ -1,6 +1,6 @@
 services:
   portal:
-    image: ghcr.io/hosenur/portal:latest
+    image: ghcr.io/ramarivera/portal:latest
     ports:
       - "3000:3000"
     environment:
